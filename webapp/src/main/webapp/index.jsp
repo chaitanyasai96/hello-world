@@ -1,3 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, This is our first pipeline project!!! </h1>
+<body> This is our first scripted pipeline. We shall go along after this example and practsie several other scenarios.</body>
